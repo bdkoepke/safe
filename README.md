@@ -1,0 +1,2 @@
+# safe
+Haskell ffi example
